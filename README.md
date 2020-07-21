@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 
 - 🔭 I’m currently working on fullstack JavaScript apps (mostly Node.js and AWS Lambda)
 - 🌱 I’m currently learning functional programming languages/concepts and GNU/linux & OpenBSD
