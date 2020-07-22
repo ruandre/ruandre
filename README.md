@@ -1,6 +1,6 @@
-<h1 align="center">Hello World 👋</h1>
+## Hello World 👋
 
-- 🔭 I’m currently working on fullstack JavaScript apps (mostly Node.js and AWS Lambda)
-- 🌱 I’m currently learning functional programming languages/concepts and GNU/linux & OpenBSD
-- 👯 I’m looking to collaborate on a component library for React/Vue/Svelte/Elm
-- 🤔 I’m looking for help with Rust🦀/Elixir/Elm and dotfiles GNU/linux & OpenBSD
+- :honeybee: I’m currently working on fullstack JavaScript apps (mostly Node.js and AWS Lambda)
+- :sweat_smile: I’m trying to learn Rust 🦀, Elixir and more about GNU/Linux + OpenBSD
+- :octopus: I’m looking to collaborate on a component library for React/Vue/Svelte/Elm
+- :hourglass_flowing_sand: I spend a lot of time tweaking dotfiles 
