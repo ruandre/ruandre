@@ -5,7 +5,7 @@
 - :octopus: I’m looking to collaborate on a component library for React/Vue/Svelte/Elm
 - :hourglass_flowing_sand: I often tweak dotfiles and daydream of traveling :airplane:
 
-🧑 [aboutme][aboutme] **|** 
+🧑 [about.me][aboutme] **|** 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
