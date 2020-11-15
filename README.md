@@ -18,3 +18,5 @@
 [youtube]: https://youtube.com/ruandrejvr
 [instagram]: https://instagram.com/ruandrejvr
 [linkedin]: https://linkedin.com/in/ruandre
+
+![Ruandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruandre&count_private=true&show_icons=true&theme=buefy)
