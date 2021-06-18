@@ -1,10 +1,10 @@
 ## Hello World 👋
 
-- 📚 I'm always learning all the things!
-- 🐡 I'm a huge fan of OpenBSD and GNU/Linux
-- ⏳ I often tweak dotfiles and daydream of traveling ✈️
+- Forever learning all the things! 📚
+- A huge fan of OpenBSD 🐡 and GNU/Linux 🐧
+- I often tweak dotfiles ⏳ and dream of traveling ✈️
 
-🧑 [about.me][aboutme] **|** 
+🧐 [about.me][aboutme] **|** 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
