@@ -6,7 +6,7 @@
 
 🧐 [about.me][aboutme] **|** 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
+🐦[twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
