@@ -9,7 +9,8 @@
 🐦[twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
+🐙 [gists][https://gist.github.com/ruandre/]
 
 [aboutme]: https://about.me/ruandre
 [website]: https://ruandre.com
