@@ -10,7 +10,7 @@
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
-🐙 [gists][https://gist.github.com/ruandre/]
+🐙 [gists][gists]
 
 [aboutme]: https://about.me/ruandre
 [website]: https://ruandre.com
@@ -18,5 +18,6 @@
 [youtube]: https://youtube.com/ruandrejvr
 [instagram]: https://instagram.com/ruandrejvr
 [linkedin]: https://linkedin.com/in/ruandre
+[gists]: https://gist.github.com/ruandre/
 
 ![Ruandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruandre&count_private=true&show_icons=true&theme=radical)
