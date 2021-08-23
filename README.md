@@ -22,4 +22,4 @@
 
 ![Ruandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruandre&count_private=true&show_icons=true&theme=radical)
 
-![Ruandre's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandre&layout=compact&theme=radical)
+![Ruandre's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandre&theme=radical)
