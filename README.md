@@ -10,7 +10,9 @@
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
-🐙 [gists][gists]
+🐙 [gists][gists] **|**
+📦 [codepen][codepen] **|**
+⚔️ [cssbattle][cssbattle]
 
 [aboutme]: https://about.me/ruandre
 [website]: https://ruandre.com
@@ -19,6 +21,8 @@
 [instagram]: https://instagram.com/ruandrejvr
 [linkedin]: https://linkedin.com/in/ruandre
 [gists]: https://gist.github.com/ruandre/
+[codepen]: https://codepen.io/ruandre
+[cssbattle]: https://cssbattle.dev/player/ruandre
 
 ![Ruandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruandre&count_private=true&show_icons=true&theme=nightowl)
 
