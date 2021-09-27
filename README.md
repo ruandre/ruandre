@@ -8,11 +8,12 @@
 🏡 [website][website] **|** 
 🐦[twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+📷 [instagram][instagram]  
 👔 [linkedin][linkedin] **|**
 🐙 [gists][gists] **|**
 📦 [codepen][codepen] **|**
-⚔️ [cssbattle][cssbattle]
+⚔️ [cssbattle][cssbattle] **|**
+🏗️ [patreon][patreon]
 
 [aboutme]: https://about.me/ruandre
 [website]: https://ruandre.com
@@ -23,6 +24,7 @@
 [gists]: https://gist.github.com/ruandre/
 [codepen]: https://codepen.io/ruandre
 [cssbattle]: https://cssbattle.dev/player/ruandre
+[patreon]: https://www.patreon.com/ruandre
 
 ![Ruandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruandre&count_private=true&show_icons=true&theme=nightowl)
 
