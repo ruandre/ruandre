@@ -29,3 +29,7 @@
 ![Ruandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruandre&count_private=true&show_icons=true&theme=nightowl)
 
 ![Ruandre's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandre&layout=compact&theme=nightowl)
+
+#### 🍚 Rice:
+![rice-shot](rice-shot.jpg)
+_(plan on eventually uploading dotfiles)_
