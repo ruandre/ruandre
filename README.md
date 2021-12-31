@@ -1,8 +1,8 @@
 ## Hello World 👋
 
-- Forever learning all the things! 📚
+- Forever learning all the things 📚
 - A huge fan of OpenBSD 🐡 and GNU/Linux 🐧
-- I often tweak .dotfiles ⏳ and dream of traveling ✈️
+- I often tweak .dotfiles ⏳ and daydream of traveling ✈️
 
 🧐 [about.me][aboutme] **|** 
 🏡 [website][website] **|** 
