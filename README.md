@@ -26,9 +26,8 @@
 [cssbattle]: https://cssbattle.dev/player/ruandre
 [patreon]: https://www.patreon.com/ruandre
 
-#### 🍚 Rice:
+#### Rice 🍚 _(a work in progress, I plan on eventually uploading dotfiles)_
 ![rice-shot](rice-shot.jpg)
-_(plan on eventually uploading dotfiles)_
 
 ![Ruandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruandre&count_private=true&show_icons=true&theme=nightowl)
 
