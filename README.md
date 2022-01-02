@@ -6,15 +6,15 @@
 
 ## Links
 
-🧐 [about.me][aboutme] **|** 
-🏡 [website][website] **|** 
-🐦[twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram]  
-👔 [linkedin][linkedin] **|**
-🐙 [gists][gists] **|**
-📦 [codepen][codepen] **|**
-⚔️ [cssbattle][cssbattle] **|**
+🐙 [gists][gists] | 
+🏡 [website][website] | 
+👔 [linkedin][linkedin] | 
+🐦[twitter][twitter] | 
+📺 [youtube][youtube] | 
+📷 [instagram][instagram] | 
+📦 [codepen][codepen] | 
+⚔️ [cssbattle][cssbattle] | 
+🧐 [about.me][aboutme] | 
 🏗️ [patreon][patreon]
 
 [aboutme]: https://about.me/ruandre
