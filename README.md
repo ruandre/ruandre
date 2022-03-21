@@ -10,8 +10,9 @@
 🏡 [website][website]
 👔 [linkedin][linkedin]
 🐦[twitter][twitter]
-📺 [youtube][youtube]
 📷 [instagram][instagram]
+🎵 [spotify][spotify]
+📺 [youtube][youtube]
 📦 [codepen][codepen]
 ⚔️ [cssbattle][cssbattle]
 🧐 [about.me][aboutme]
@@ -27,6 +28,7 @@
 [codepen]: https://codepen.io/ruandre
 [cssbattle]: https://cssbattle.dev/player/ruandre
 [patreon]: https://www.patreon.com/ruandre
+[spotify]: https://open.spotify.com/user/12120297442
 
 ## Stack
 
