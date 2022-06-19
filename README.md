@@ -4,7 +4,7 @@
 - A huge fan of OpenBSD 🐡 and GNU/Linux 🐧
 - I often tweak .dotfiles ⏳ and daydream of traveling ✈️
 
-## Links
+### Links
 
 - 🐙 [gists][gists]
 - 🏡 [website][website]
@@ -30,7 +30,7 @@
 [patreon]: https://www.patreon.com/ruandre
 [spotify]: https://open.spotify.com/user/12120297442
 
-## Stack
+### Stack
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
