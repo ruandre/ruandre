@@ -4,18 +4,16 @@
 - A huge fan of OpenBSD 🐡 and GNU/Linux 🐧
 - I often tweak .dotfiles ⏳ and daydream of traveling ✈️
 
-## [🐙][gi] [🏡][wb] [👔][li] [🐦][tw] [📷][in] [🎵][sp] [📺][yt] [📦][cp] [⚔️][cb] [🧐][am] [🏗️][pn]
+## [🐙][gi] [🏡][wb] [👔][li] [📷][in] [🎵][sp] [📺][yt] [📦][cp] [⚔️][cb] [🏗️][pn]
 
 [gi]: https://gist.github.com/ruandre/
 [wb]: https://ruandre.com
 [li]: https://linkedin.com/in/ruandre
-[tw]: https://twitter.com/ruandre
 [in]: https://instagram.com/ruandrejvr
 [sp]: https://open.spotify.com/user/12120297442
 [yt]: https://youtube.com/ruandrejvr
 [cp]: https://codepen.io/ruandre
 [cb]: https://cssbattle.dev/player/ruandre
-[am]: https://about.me/ruandre
 [pn]: https://www.patreon.com/ruandre
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
