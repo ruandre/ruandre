@@ -1,9 +1,5 @@
 ## Hello World 👋
 
-- Forever learning all the things 📚
-- A huge fan of OpenBSD 🐡 and GNU/Linux 🐧
-- I often tweak .dotfiles ⏳ and daydream of traveling ✈️
-
 ### [🐙][gi] [🏡][wb] [👔][li] [📷][in] [📻][sp] [📦][cp]
 
 [gi]: https://gist.github.com/ruandre/
