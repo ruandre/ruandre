@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-### [🐙][gi] [🏡][wb] [👔][li] [📷][in] [📻][sp] [📦][cp]
+### [🐙 Gist][gi] / [🏡 Website][wb] / [👔 LinkedIn][li] / [📷 Instagram][in] / [🎵 Spotify][sp] / [📦 CodePen][cp] 
 
 [gi]: https://gist.github.com/ruandre/
 [wb]: https://ruandre.com
